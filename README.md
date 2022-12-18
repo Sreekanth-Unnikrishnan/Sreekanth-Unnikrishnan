@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm <a href="https://moistrona.in/" target="blank">
+Sreekanth</a></h1>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 # 💫 About Me:
 🔭 A passionate Self-taught Fullstack developer (Web & Mobile)
 <br>👯 I’m looking to collaborate on front-end and back-end projects
